@@ -5,9 +5,12 @@ A weather application is an online platform that allows users to check a local w
 👉 Live Demo: [Weather App](https://react-weather-jet-phi.vercel.app)
 
 # Build with:
-» React JS
-» TypeScript
-» Tailwind
-» API(Ipinfo,Openweathermap,Mapbox)
+- React JS
+- TypeScript
+- Tailwind CSS
+- APIs:
+  - Ipinfo
+  - OpenWeatherMap
+  - Mapbox
 
 
